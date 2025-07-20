@@ -1,4 +1,4 @@
-pipelineJob('Demo-Pipeline-Job-1') {
+pipelineJob('Demo-Pipeline-Job-3') {
     description('Created via DSL seed script.')
 
     definition {
